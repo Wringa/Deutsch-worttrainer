@@ -1,0 +1,3282 @@
+[
+  {
+    "de": "Hallo||-||привет|Общение|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "Guten Morgen||-||доброе утро|Общение|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "Guten Tag||-||добрый день|Общение|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "Guten Abend||-||добрый вечер|Общение|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "Gute Nacht||-||спокойной ночи|Общение|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "tschüss||-||пока|Общение|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "auf Wiedersehen||-||до свидания|Общение|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "bitte||-||пожалуйста|Общение|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "danke||-||спасибо|Общение|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "Entschuldigung||-||извините|Общение|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "ja||-||да|Общение|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "nein||-||нет|Общение|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "vielleicht||-||возможно|Общение|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "natürlich||-||конечно|Общение|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Mann|der|Männer|мужчина|Семья и люди|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Frau|die|Frauen|женщина; жена|Семья и люди|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Kind|das|Kinder|ребёнок|Семья и люди|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Familie|die|Familien|семья|Семья и люди|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Vater|der|Väter|отец|Семья и люди|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Mutter|die|Mütter|мать|Семья и люди|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Bruder|der|Brüder|брат|Семья и люди|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Schwester|die|Schwestern|сестра|Семья и люди|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Sohn|der|Söhne|сын|Семья и люди|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Tochter|die|Töchter|дочь|Семья и люди|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Eltern|die|Eltern|родители|Семья и люди|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Großvater|der|Großväter|дедушка|Семья и люди|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Großmutter|die|Großmütter|бабушка|Семья и люди|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Freund|der|Freunde|друг|Семья и люди|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Freundin|die|Freundinnen|подруга; девушка|Семья и люди|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Mensch|der|Menschen|человек|Семья и люди|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Name|der|Namen|имя|Семья и люди|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Junge|der|Jungen|мальчик|Семья и люди|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Mädchen|das|Mädchen|девочка|Семья и люди|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Lehrer|der|Lehrer|учитель|Профессии|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Lehrerin|die|Lehrerinnen|учительница|Профессии|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Student|der|Studenten|студент|Учёба|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Studentin|die|Studentinnen|студентка|Учёба|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Arzt|der|Ärzte|врач|Профессии|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Ärztin|die|Ärztinnen|врач (жен.)|Профессии|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Verkäufer|der|Verkäufer|продавец|Профессии|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Koch|der|Köche|повар|Профессии|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Köchin|die|Köchinnen|повар (жен.)|Профессии|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Beruf|der|Berufe|профессия|Профессии|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Arbeit|die|Arbeiten|работа|Профессии|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Haus|das|Häuser|дом|Дом|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Wohnung|die|Wohnungen|квартира|Дом|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Zimmer|das|Zimmer|комната|Дом|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Küche|die|Küchen|кухня|Дом|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Badezimmer|das|Badezimmer|ванная|Дом|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Schlafzimmer|das|Schlafzimmer|спальня|Дом|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Wohnzimmer|das|Wohnzimmer|гостиная|Дом|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Tür|die|Türen|дверь|Дом|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Fenster|das|Fenster|окно|Дом|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Tisch|der|Tische|стол|Дом|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Stuhl|der|Stühle|стул|Дом|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Bett|das|Betten|кровать|Дом|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Schrank|der|Schränke|шкаф|Дом|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Sofa|das|Sofas|диван|Дом|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Lampe|die|Lampen|лампа|Дом|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Schlüssel|der|Schlüssel|ключ|Дом|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Wand|die|Wände|стена|Дом|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Boden|der|Böden|пол|Дом|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Treppe|die|Treppen|лестница|Дом|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Garten|der|Gärten|сад|Дом|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Buch|das|Bücher|книга|Учёба|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Heft|das|Hefte|тетрадь|Учёба|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Bleistift|der|Bleistifte|карандаш|Учёба|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Kugelschreiber|der|Kugelschreiber|шариковая ручка|Учёба|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Schule|die|Schulen|школа|Учёба|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Universität|die|Universitäten|университет|Учёба|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Sprache|die|Sprachen|язык|Учёба|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Frage|die|Fragen|вопрос|Учёба|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Antwort|die|Antworten|ответ|Учёба|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Prüfung|die|Prüfungen|экзамен|Учёба|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Hausaufgabe|die|Hausaufgaben|домашнее задание|Учёба|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Unterricht|der|-|урок; занятие|Учёба|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Pause|die|Pausen|перерыв|Учёба|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Wörterbuch|das|Wörterbücher|словарь|Учёба|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Grammatik|die|-|грамматика|Учёба|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Papier|das|-|бумага|Учёба|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Computer|der|Computer|компьютер|Техника|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Laptop|der|Laptops|ноутбук|Техника|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Handy|das|Handys|мобильный телефон|Техника|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Telefon|das|Telefone|телефон|Техника|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Bildschirm|der|Bildschirme|экран|Техника|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Tastatur|die|Tastaturen|клавиатура|Техника|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Internet|das|-|интернет|Техника|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die E-Mail|die|E-Mails|электронное письмо|Техника|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Foto|das|Fotos|фотография|Техника|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Uhr|die|Uhren|часы|Время|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Zeit|die|-|время|Время|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Tag|der|Tage|день|Время|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Woche|die|Wochen|неделя|Время|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Monat|der|Monate|месяц|Время|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Jahr|das|Jahre|год|Время|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Morgen|der|Morgen|утро|Время|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Nachmittag|der|Nachmittage|вторая половина дня|Время|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Abend|der|Abende|вечер|Время|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Nacht|die|Nächte|ночь|Время|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Minute|die|Minuten|минута|Время|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Stunde|die|Stunden|час|Время|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "heute||-||сегодня|Время|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "morgen||-||завтра|Время|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "gestern||-||вчера|Время|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "jetzt||-||сейчас|Время|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "später||-||позже|Время|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "immer||-||всегда|Время|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "oft||-||часто|Время|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "manchmal||-||иногда|Время|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "nie||-||никогда|Время|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "früh||-||рано|Время|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "spät||-||поздно|Время|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Frühstück|das|Frühstücke|завтрак|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Mittagessen|das|Mittagessen|обед|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Abendessen|das|Abendessen|ужин|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Brot|das|Brote|хлеб|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Brötchen|das|Brötchen|булочка|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Butter|die|-|масло|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Käse|der|-|сыр|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Milch|die|-|молоко|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Ei|das|Eier|яйцо|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Fleisch|das|-|мясо|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Fisch|der|Fische|рыба|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Hähnchen|das|Hähnchen|курица|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Reis|der|-|рис|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Kartoffel|die|Kartoffeln|картофель|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Tomate|die|Tomaten|помидор|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Gurke|die|Gurken|огурец|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Apfel|der|Äpfel|яблоко|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Banane|die|Bananen|банан|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Orange|die|Orangen|апельсин|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Zitrone|die|Zitronen|лимон|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Erdbeere|die|Erdbeeren|клубника|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Gemüse|das|-|овощи|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Obst|das|-|фрукты|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Salat|der|Salate|салат|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Suppe|die|Suppen|суп|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Zucker|der|-|сахар|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Salz|das|-|соль|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Wasser|das|-|вода|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Kaffee|der|Kaffees|кофе|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Tee|der|Tees|чай|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Saft|der|Säfte|сок|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Flasche|die|Flaschen|бутылка|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Glas|das|Gläser|стакан|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Teller|der|Teller|тарелка|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Messer|das|Messer|нож|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Gabel|die|Gabeln|вилка|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Löffel|der|Löffel|ложка|Еда и напитки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Restaurant|das|Restaurants|ресторан|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Speisekarte|die|Speisekarten|меню|Еда и напитки|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Rechnung|die|Rechnungen|счёт|Покупки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Supermarkt|der|Supermärkte|супермаркет|Покупки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Laden|der|Läden|магазин|Покупки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Preis|der|Preise|цена|Покупки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Geld|das|-|деньги|Покупки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Kasse|die|Kassen|касса|Покупки|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Kleidung|die|-|одежда|Одежда|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Hemd|das|Hemden|рубашка|Одежда|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das T-Shirt|das|T-Shirts|футболка|Одежда|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Hose|die|Hosen|брюки|Одежда|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Jeans|die|Jeans|джинсы|Одежда|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Rock|der|Röcke|юбка|Одежда|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Kleid|das|Kleider|платье|Одежда|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Jacke|die|Jacken|куртка|Одежда|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Mantel|der|Mäntel|пальто|Одежда|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Schuh|der|Schuhe|ботинок|Одежда|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Socke|die|Socken|носок|Одежда|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Pullover|der|Pullover|свитер|Одежда|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Mütze|die|Mützen|шапка|Одежда|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Tasche|die|Taschen|сумка|Одежда|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Bahnhof|der|Bahnhöfe|вокзал|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Flughafen|der|Flughäfen|аэропорт|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Straße|die|Straßen|улица|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Platz|der|Plätze|площадь; место|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Stadt|die|Städte|город|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Dorf|das|Dörfer|деревня|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Land|das|Länder|страна|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Bus|der|Busse|автобус|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Zug|der|Züge|поезд|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Bahn|die|Bahnen|железная дорога|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Auto|das|Autos|автомобиль|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Fahrrad|das|Fahrräder|велосипед|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Taxi|das|Taxis|такси|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Fahrkarte|die|Fahrkarten|билет на транспорт|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Haltestelle|die|Haltestellen|остановка|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Apotheke|die|Apotheken|аптека|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Krankenhaus|das|Krankenhäuser|больница|Здоровье|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Bank|die|Banken|банк|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Post|die|-|почта|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Polizei|die|-|полиция|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Hotel|das|Hotels|отель|Путешествия|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Park|der|Parks|парк|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Museum|das|Museen|музей|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Kino|das|Kinos|кинотеатр|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Kirche|die|Kirchen|церковь|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Brücke|die|Brücken|мост|Город и транспорт|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Ampel|die|Ampeln|светофор|Город и транспорт|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Weg|der|Wege|дорога; путь|Город и транспорт|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "links||-||налево|Направления|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "rechts||-||направо|Направления|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "geradeaus||-||прямо|Направления|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "hier||-||здесь|Направления|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "dort||-||там|Направления|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Kopf|der|Köpfe|голова|Здоровье|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Gesicht|das|Gesichter|лицо|Здоровье|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Auge|das|Augen|глаз|Здоровье|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Ohr|das|Ohren|ухо|Здоровье|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Nase|die|Nasen|нос|Здоровье|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Mund|der|Münder|рот|Здоровье|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Zahn|der|Zähne|зуб|Здоровье|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Hals|der|Hälse|шея; горло|Здоровье|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Rücken|der|Rücken|спина|Здоровье|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Bauch|der|Bäuche|живот|Здоровье|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Hand|die|Hände|кисть руки|Здоровье|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Arm|der|Arme|рука|Здоровье|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Bein|das|Beine|нога|Здоровье|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Fuß|der|Füße|ступня|Здоровье|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Herz|das|Herzen|сердце|Здоровье|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Gesundheit|die|-|здоровье|Здоровье|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Schmerz|der|Schmerzen|боль|Здоровье|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Medikament|das|Medikamente|лекарство|Здоровье|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Termin|der|Termine|запись; назначенная встреча|Здоровье|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Wetter|das|-|погода|Природа|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Sonne|die|Sonnen|солнце|Природа|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Regen|der|-|дождь|Природа|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Schnee|der|-|снег|Природа|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Wind|der|Winde|ветер|Природа|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Wolke|die|Wolken|облако|Природа|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Himmel|der|-|небо|Природа|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Baum|der|Bäume|дерево|Природа|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Blume|die|Blumen|цветок|Природа|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Tier|das|Tiere|животное|Природа|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Hund|der|Hunde|собака|Природа|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Katze|die|Katzen|кошка|Природа|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Vogel|der|Vögel|птица|Природа|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Pferd|das|Pferde|лошадь|Природа|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Frühling|der|Frühlinge|весна|Природа|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Sommer|der|Sommer|лето|Природа|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Herbst|der|Herbste|осень|Природа|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Winter|der|Winter|зима|Природа|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "warm||-||тёплый|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "kalt||-||холодный|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "heiß||-||жаркий; горячий|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "schön||-||красивый|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "groß||-||большой; высокий|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "klein||-||маленький|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "lang||-||длинный|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "kurz||-||короткий|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "alt||-||старый|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "jung||-||молодой|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "neu||-||новый|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "gut||-||хороший|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "schlecht||-||плохой|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "teuer||-||дорогой|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "billig||-||дешёвый|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "schnell||-||быстрый|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "langsam||-||медленный|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "leicht||-||лёгкий|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "schwer||-||тяжёлый; трудный|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "einfach||-||простой|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "schwierig||-||сложный|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "müde||-||уставший|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "krank||-||больной|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "gesund||-||здоровый|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "glücklich||-||счастливый|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "traurig||-||грустный|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "freundlich||-||дружелюбный|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "nett||-||милый; любезный|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "wichtig||-||важный|Прилагательные|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "interessant||-||интересный|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "langweilig||-||скучный|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "richtig||-||правильный|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "falsch||-||неправильный|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "offen||-||открытый|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "geschlossen||-||закрытый|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "sauber||-||чистый|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "schmutzig||-||грязный|Прилагательные|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "möglich||-||возможный|Прилагательные|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "rot||-||красный|Цвета|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "blau||-||синий; голубой|Цвета|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "grün||-||зелёный|Цвета|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "gelb||-||жёлтый|Цвета|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "schwarz||-||чёрный|Цвета|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "weiß||-||белый|Цвета|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "braun||-||коричневый|Цвета|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "grau||-||серый|Цвета|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "sein||-||быть|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "haben||-||иметь|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "werden||-||становиться|Глаголы|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "machen||-||делать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "gehen||-||идти|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "kommen||-||приходить; приезжать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "fahren||-||ехать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "fliegen||-||лететь|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "laufen||-||бежать; ходить|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "bleiben||-||оставаться|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "wohnen||-||проживать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "leben||-||жить|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "arbeiten||-||работать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "lernen||-||учить; изучать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "studieren||-||учиться в вузе|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "lesen||-||читать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "schreiben||-||писать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "sprechen||-||говорить|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "sagen||-||сказать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "fragen||-||спрашивать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "antworten||-||отвечать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "hören||-||слышать; слушать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "sehen||-||видеть|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "schauen||-||смотреть|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "essen||-||есть|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "trinken||-||пить|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "kochen||-||готовить|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "kaufen||-||покупать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "verkaufen||-||продавать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "bezahlen||-||оплачивать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "kosten||-||стоить|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "suchen||-||искать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "finden||-||находить|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "brauchen||-||нуждаться|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "nehmen||-||брать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "geben||-||давать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "bringen||-||приносить|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "holen||-||забирать; приносить|Глаголы|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "öffnen||-||открывать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "schließen||-||закрывать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "beginnen||-||начинать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "enden||-||заканчивать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "warten||-||ждать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "helfen||-||помогать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "spielen||-||играть|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "schlafen||-||спать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "aufstehen||-||вставать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "sitzen||-||сидеть|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "stehen||-||стоять|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "liegen||-||лежать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "tragen||-||носить|Глаголы|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "waschen||-||мыть; стирать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "duschen||-||принимать душ|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "putzen||-||чистить; убирать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "treffen||-||встречать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "besuchen||-||посещать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "reisen||-||путешествовать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "planen||-||планировать|Глаголы|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "vergessen||-||забывать|Глаголы|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "verstehen||-||понимать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "wissen||-||знать (факт)|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "kennen||-||знать (быть знакомым)|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "denken||-||думать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "glauben||-||верить; полагать|Глаголы|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "lieben||-||любить|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "mögen||-||любить; нравиться|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "möchten||-||хотеть (вежливо)|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "wollen||-||хотеть|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "können||-||мочь; уметь|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "müssen||-||быть должным|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "dürfen||-||иметь разрешение|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "sollen||-||следует; быть должным|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "regnen||-||идти (о дожде)|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "schneien||-||идти (о снеге)|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "anrufen||-||звонить|Глаголы|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "einkaufen||-||делать покупки|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "einladen||-||приглашать|Глаголы|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "aufmachen||-||открывать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "zumachen||-||закрывать|Глаголы|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "abfahren||-||отправляться|Глаголы|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "ankommen||-||прибывать|Глаголы|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "mitbringen||-||приносить с собой|Глаголы|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "aufpassen||-||быть внимательным|Глаголы|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "sich freuen||-||радоваться|Глаголы|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "sich interessieren||-||интересоваться|Глаголы|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Geburtstag|der|Geburtstage|день рождения|Праздники|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Geschenk|das|Geschenke|подарок|Праздники|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Party|die|Partys|вечеринка|Праздники|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Urlaub|der|Urlaube|отпуск|Путешествия|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Reise|die|Reisen|путешествие|Путешествия|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Koffer|der|Koffer|чемодан|Путешествия|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Pass|der|Pässe|паспорт|Путешествия|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Reservierung|die|Reservierungen|бронирование|Путешествия|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Meer|das|Meere|море|Путешествия|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Strand|der|Strände|пляж|Путешествия|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Berg|der|Berge|гора|Путешествия|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Sehenswürdigkeit|die|Sehenswürdigkeiten|достопримечательность|Путешествия|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Problem|das|Probleme|проблема|Общение|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Hilfe|die|-|помощь|Общение|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Meinung|die|Meinungen|мнение|Общение|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Möglichkeit|die|Möglichkeiten|возможность|Общение|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Unterschied|der|Unterschiede|различие|Общение|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Anfang|der|Anfänge|начало|Общение|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Ende|das|Enden|конец|Общение|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "der Grund|der|Gründe|причина|Общение|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "das Beispiel|das|Beispiele|пример|Общение|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "die Regel|die|Regeln|правило|Общение|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "deshalb||-||поэтому|Связующие слова|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "weil||-||потому что|Связующие слова|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "aber||-||но|Связующие слова|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "oder||-||или|Связующие слова|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "und||-||и|Связующие слова|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "auch||-||тоже; также|Связующие слова|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "nur||-||только|Связующие слова|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "sehr||-||очень|Связующие слова|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "mehr||-||больше|Связующие слова|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "weniger||-||меньше|Связующие слова|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "zusammen||-||вместе|Связующие слова|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "allein||-||один; в одиночестве|Связующие слова|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "zuerst||-||сначала|Связующие слова|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "danach||-||после этого|Связующие слова|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "dann||-||затем|Связующие слова|A1",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  },
+  {
+    "de": "deswegen||-||по этой причине|Связующие слова|A2",
+    "article": null,
+    "plural": null,
+    "translation": null,
+    "topic": null,
+    "level": null
+  }
+]
